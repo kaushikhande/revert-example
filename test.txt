@@ -1,7 +1,6 @@
 here we are.
 need to practice more.
 99 bottles of OOP.
-added this changes in feature branch.
 Poodar.
 OOP guides
 
